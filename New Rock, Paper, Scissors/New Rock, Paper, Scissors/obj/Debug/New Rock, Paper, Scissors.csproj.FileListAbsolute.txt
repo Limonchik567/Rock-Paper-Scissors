@@ -1,0 +1,10 @@
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\bin\Debug\New Rock, Paper, Scissors.exe.config
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\bin\Debug\New Rock, Paper, Scissors.exe
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\bin\Debug\New Rock, Paper, Scissors.pdb
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\obj\Debug\New Rock, Paper, Scissors.csproj.AssemblyReference.cache
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\obj\Debug\New_Rock__Paper__Scissors.Form1.resources
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\obj\Debug\New_Rock__Paper__Scissors.Properties.Resources.resources
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\obj\Debug\New Rock, Paper, Scissors.csproj.GenerateResource.cache
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\obj\Debug\New Rock, Paper, Scissors.csproj.CoreCompileInputs.cache
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\obj\Debug\New Rock, Paper, Scissors.exe
+G:\Коды\New Rock, Paper, Scissors\New Rock, Paper, Scissors\obj\Debug\New Rock, Paper, Scissors.pdb
